@@ -1,4 +1,6 @@
-### Hi there 👋
+### full stack dev
+#### C#, JavaScript, Python
+###### Vue.js
 
 <!--
 **5e/5e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
